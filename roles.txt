@@ -1,0 +1,48 @@
+Mohammed - coding
+	 - tilesets ?
+
+Elric - coding
+      - background
+
+Yezua - Characters
+	-two characters exactly same but different shirt color ?
+	-idle (2-4 frames) for both ? 
+	-running (2-4 frames) for both ?
+	-jumping (1 frame stance) for both ?
+	-all drawings should face right (i will turn them to look left using code) ?
+	-background pose ?
+
+Alex    - title menu
+	- controls screen
+	- victory screen for player 1 ?
+	- victory screen for player 2 ?
+
+Ethan Galite - guns and bullets
+		-pistol
+		-ak ?
+		-shotgun ?
+		-sniper ?
+		-make all guns have hand on them and make all guns point right ?
+		-make one bullet (will be used for all weapons)
+
+Mo - music and sound
+   	- one song (8-bit battle theme)
+   	- pistol shot
+	- sniper shot
+	- shotgun shot
+	- click (for buttons)
+	- bullet hit wall sound
+	- bullet hit player sound
+	- player die sound
+	
+
+
+
+characters
+tilesets
+background
+weapons
+bullets
+scene background
+
+music and audio
