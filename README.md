@@ -26,7 +26,7 @@ To play, download project files and open "SPLAT Executable/Super Prominant Lunac
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭕ Tank: extremely speedy, 1 damage blocking barrier, ramming the enemy with your shield does damage
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭕ Mage: little increase in speed, beam shootsout upon activation that instantly kills the enemy, shoots small fireballs afterwards
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭕ Mage: little increase in speed, beam shootsout upon activation that instantly kills the enemy
 
 ⭕ First to 3 points wins
 
@@ -39,3 +39,5 @@ Made with GameMaker Studio 2
 ## Notes 📝 ##
 
 Won game of the year at my highschool's game making competition
+
+The theme of the competition was "splat" so we made a random acronym as the name
